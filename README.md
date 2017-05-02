@@ -1,2 +1,8 @@
 # rock_paper_scissors
-A well known popular game using ruby.
+
+A well known popular game using ruby. 
+
+*Multiple Versions*
+
+1. using with case statement
+2. using ruby polymorphism
