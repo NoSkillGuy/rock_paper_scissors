@@ -6,3 +6,4 @@ A well known popular game using ruby.
 
 1. using with case statement
 2. using ruby polymorphism
+3. ugly version, no objects
